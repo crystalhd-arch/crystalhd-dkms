@@ -1,0 +1,2 @@
+/home/mimi/chd/chd-arch/crystalhd-dkms/crystalhd_lnx.o /home/mimi/chd/chd-arch/crystalhd-dkms/crystalhd_misc.o /home/mimi/chd/chd-arch/crystalhd-dkms/crystalhd_cmds.o /home/mimi/chd/chd-arch/crystalhd-dkms/crystalhd_hw.o /home/mimi/chd/chd-arch/crystalhd-dkms/crystalhd_linkfuncs.o /home/mimi/chd/chd-arch/crystalhd-dkms/crystalhd_fleafuncs.o /home/mimi/chd/chd-arch/crystalhd-dkms/crystalhd_flea_ddr.o
+
